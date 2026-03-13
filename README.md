@@ -67,7 +67,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-https://weather-app-by-nikhil.vercel.app
+https://weatherapp-vert-nu.vercel.app
 
 
 ---
