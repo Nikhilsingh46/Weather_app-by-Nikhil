@@ -63,11 +63,6 @@ Run the project
 npm run dev
 ```
 
----
-
-## 🌐 Live Demo
-
-https://weatherapp-vert-nu.vercel.app
 
 
 ---
